@@ -21,5 +21,3 @@ accumulation, suggesting a potential pro-viroid role for this circRNA.
 -  Size analysis (5-7)
 -  Quantification (8,9)
 -  Difrencial expression (10,11)
--      10. DESeq
--      11. F-test
