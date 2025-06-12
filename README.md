@@ -16,10 +16,10 @@ Blot. Finally, overe pression of circ1 in _Cucumis sativus_ followed by HSVd inf
 accumulation, suggesting a potential pro-viroid role for this circRNA.
 
 # SCRIPTS
-Alighment with Bowtie2 (1-3)
-Alighment with Hisat2 (4)
-Size analysis (5-7)
-Quantification (8,9)
-Diferencial expression (10,11)
-  10. DESeq
-  11. F-test
+-  Alighment with Bowtie2 (1-3)
+-  Alighment with Hisat2 (4)
+-  Size analysis (5-7)
+-  Quantification (8,9)
+-  Difrencial expression (10,11)
+    10. DESeq
+    11. F-test
